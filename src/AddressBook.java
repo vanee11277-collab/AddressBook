@@ -5,7 +5,7 @@ import java.util.Map;
 public class AddressBook {
 
     private HashMap<String, String> contactos;
-    private final String archivo = "contactos.txt";
+    private final String archivo = "db/contactos.txt";
 
     public AddressBook() {
         contactos = new HashMap<>();

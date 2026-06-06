@@ -1,6 +1,8 @@
 # AddressBook
 
 Aplicación de agenda telefónica desarrollada en Java.
+Actualización desde feature-contactos
+
 
 ---
 
